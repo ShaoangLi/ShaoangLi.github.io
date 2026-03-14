@@ -105,6 +105,22 @@ section h2 {
 }
 
 /* About */
+.about-content {
+    display: flex;
+    gap: 36px;
+    align-items: flex-start;
+}
+.profile-photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 55% 20%;
+    flex-shrink: 0;
+}
+.about-text {
+    flex: 1;
+}
 .about p {
     color: var(--text-light);
     font-size: 1em;
@@ -252,4 +268,6 @@ section h2 {
     header .contact { flex-direction: column; gap: 4px; }
     nav .nav-inner { overflow-x: auto; }
     .news-list li { flex-direction: column; gap: 2px; }
+    .about-content { flex-direction: column; align-items: center; }
+    .profile-photo { width: 150px; height: 150px; }
 }
