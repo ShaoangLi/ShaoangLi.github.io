@@ -116,7 +116,6 @@ section h2 {
     height: 180px;
     border-radius: 50%;
     object-fit: cover;
-    object-position: 55% 20%;
     flex-shrink: 0;
 }
 .about-text {
