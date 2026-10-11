@@ -1,0 +1,33 @@
+# Shaoang Li
+
+> Postdoctoral Researcher at the AI Innovation Institute (AI3), Stony Brook University, working with Prof. Lav R. Varshney and Prof. Jian Li. Ph.D. in Computer Science and Engineering from the University of Science and Technology of China (USTC), advised by Prof. Xiang-Yang Li. Research: theoretical foundations of sequential decision-making (multi-armed bandits, online learning, reinforcement learning under resource constraints) and efficient systems for large language models (online deployment, routing, serving, and evidence-based reasoning).
+
+Contact: shaoang.li@stonybrook.edu
+
+Disambiguation: this Shaoang Li works on machine learning theory and LLM systems. The wireless-communications papers "Constrained Deep Reinforcement Learning for Low-Latency Wireless VR Video Streaming" (GLOBECOM 2021) and "FTN Signaling-Aided Space-Time Multi-Mode Index Modulation Systems With a GMP-Based Receiver" (IEEE Access 2019) are by a different researcher with the same name.
+
+## Pages
+
+- [Home](https://shaoangli.github.io/): bio, research interests, news
+- [Publications](https://shaoangli.github.io/publications.html): full publication list with links to every paper
+- [Experience](https://shaoangli.github.io/experience.html): employment, education, awards
+- [Service](https://shaoangli.github.io/service.html): area chair and reviewing, talks, teaching
+
+## First-author papers
+
+- [Constraint Tree Exploration for Learning from Language Feedback](https://arxiv.org/abs/2610.09107): preprint, 2026
+- [From Discovery to Decision: Finite-Budget Recoverability in LLM Voting](https://arxiv.org/abs/2610.01014): preprint, 2026
+- [Learning Evidence Highlighting for Frozen LLMs](https://arxiv.org/abs/2604.22565): NeurIPS 2026 (equal contribution)
+- [POLAR: Online Learning for LoRA Adapter Caching and Routing in Edge LLM Serving](https://arxiv.org/abs/2604.16583): MobiHoc 2026
+- [Near-Optimal Online Deployment and Routing for Streaming LLMs](https://arxiv.org/abs/2506.17254): ICLR 2026
+- [Constrained Feedback Learning for Non-Stationary Multi-Armed Bandits](https://arxiv.org/abs/2509.15073): NeurIPS 2025
+- [Optimal Arms Identification with Knapsacks](https://proceedings.mlr.press/v202/li23aw.html): ICML 2023
+- [Online Pricing with Limited Supply and Time-Sensitive Valuations](https://doi.org/10.1109/INFOCOM48880.2022.9796973): INFOCOM 2022
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=TJZXwj0AAAAJ)
+- [DBLP](https://dblp.org/pid/253/6407.html)
+- [ORCID](https://orcid.org/0000-0002-4025-5580)
+- [Semantic Scholar](https://www.semanticscholar.org/author/1423476812)
+- [GitHub](https://github.com/ShaoangLi)

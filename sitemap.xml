@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ShaoangLi.github.io/</loc>
+    <loc>https://shaoangli.github.io/</loc>
+    <lastmod>2026-10-11</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ShaoangLi.github.io/publications.html</loc>
+    <loc>https://shaoangli.github.io/publications.html</loc>
+    <lastmod>2026-10-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ShaoangLi.github.io/experience.html</loc>
+    <loc>https://shaoangli.github.io/experience.html</loc>
+    <lastmod>2026-10-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ShaoangLi.github.io/service.html</loc>
+    <loc>https://shaoangli.github.io/service.html</loc>
+    <lastmod>2026-10-11</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
