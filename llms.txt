@@ -15,6 +15,7 @@ Disambiguation: this Shaoang Li works on machine learning theory and LLM systems
 
 ## First-author papers
 
+- [Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation](https://arxiv.org/abs/2610.23831): preprint, 2026 (equal contribution)
 - [When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following](https://arxiv.org/abs/2610.20805): preprint, 2026 (equal contribution)
 - [Constraint Tree Exploration for Learning from Language Feedback](https://arxiv.org/abs/2610.09107): preprint, 2026
 - [From Discovery to Decision: Finite-Budget Recoverability in LLM Voting](https://arxiv.org/abs/2610.01014): preprint, 2026
